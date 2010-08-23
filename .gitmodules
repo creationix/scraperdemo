@@ -1,0 +1,12 @@
+[submodule "lib/apricot"]
+	path = lib/apricot
+	url = http://github.com/silentrob/Apricot.git
+[submodule "lib/jsdom"]
+	path = lib/jsdom
+	url = http://github.com/tmpvar/jsdom.git
+[submodule "modules/htmlparser"]
+	path = modules/htmlparser
+	url = http://github.com/tautologistics/node-htmlparser.git
+[submodule "lib/htmlparser"]
+	path = lib/htmlparser
+	url = http://github.com/tautologistics/node-htmlparser.git
